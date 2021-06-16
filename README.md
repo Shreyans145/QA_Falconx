@@ -1,7 +1,7 @@
 # QA_Falconx
 Assignment_QA
 
-* For this assignment the data is taken from "hitbtc" Api
+* For this assignment the data is taken from **hitbtc Api**
 
 ## To run the ipynb file(QA_Shreyans):
 - Open the file in Jupyter Notebooks or Google Colab and Click on run all. 
